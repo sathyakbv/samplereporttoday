@@ -1,2 +1,4 @@
 Hello
 Sathya rocks
+
+adding something on master from different local repository
